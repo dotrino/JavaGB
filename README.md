@@ -1,1 +1,1 @@
-# JavaGB
+# JavaGB 1 курс
